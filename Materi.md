@@ -54,3 +54,57 @@ Seorang penulis buku tenang bisnis dan wirausaha, **Sharma** menggolongkan fakto
 8. Kurang kreatif
 9. Kurang dapat menyesuaikan dengan selera konsumen
 10. Adanya pelayanan yang kurang baik
+
+## 6. Wawasan Wirausaha
+Wirausahawan _(enterpreneur)_ merupakan orang yang dapat menggerakkan perekonomian masyarakat agar lebih maju, berani mengambil resiko, mengatur kegiatan, mengelola modal, serta memiliki respons kreatif dan inovatif terhadap peluang yang ada.
+
+### Ciri - ciri Wirausahawan
+1. Mengidentifikasi peluang usaha
+2. Memiliki percaya diri
+3. Bersikap positif terhadap diri serta lingkungannya
+4. Memiliki perilaku seperti pemimpin
+5. Memiliki inisiatif, kreatif serta inovasi-inovasi baru
+6. Pekerja keras
+7. Berpandangan luas dan memiliki visi ke depan yang jauh lebih baik
+8. Berani mengambil resiko
+9. Menerima saran dan kritik
+
+### Karakteristik Wirausahawan
+1. Disiplin
+2. Komitmen tinggi
+3. Jujur
+4. Krwatif dan inovatif
+5. Mandiri dan realistis
+6. Berani menghadapi resiko
+7. Selalu mencari peluang
+8. Memiliki jiwa kepemimpinan _(Leadership Ability)_
+9. Memiliki kemampuan manajerial
+10. Memiliki keterampilan personal
+
+### Syarat - syarat kewirausahaan
+Syarat - syarat kewirausahaan dibedakan menjadi dua, diantaranya 8K dan 7P sebagai berikut:
+
+**Syarat 8K**
+1. Ketakwaan terhadap Tuhan YME
+2. Kemauan, keuletan & ketekunan
+3. Kemampuan & keahlian
+4. Kesempatan yang ada dan digunakan
+5. Keteraturan, kecepatan kerja serta kedisiplinan
+6. Keberanian mengambil resiko dan menghadapi ketidakpastian
+7. Kesadaran sosial dan kemerdekaan
+8. Kapital dan keuangan
+
+**Syarat 7P**
+1. Pendidikan
+2. Pelatihan
+3. Penerangan, penyukuhan dan bimbingan
+4. Pengelolaan dan perlindungan serta kepastian hukum
+5. Pendekatan strategis
+6. Penghayatan hakiki kehidupan
+7. Perbankan
+
+### Tipe - tipe Kewirausahaan
+1. Kewirausahaan dalam bentuk usaha kecil
+2. Usaha berskala
+3. Usaha besar
+4. Usaha sosial
