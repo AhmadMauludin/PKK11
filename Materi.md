@@ -1,4 +1,4 @@
-# BAB 1 - RUANG LINGKUP KERIRAUSAHAAN
+# BAB 1 - A. RUANG LINGKUP KEWIRAUSAHAAN
 
 Pada hakikatnya, kewirausahaan merupakan suatu sifat, ciri serta watak seseorang yang memiliki kemauan untuk mewujudkan gagasan inovatif ke dalam dunia nyata secara kreatif.
 
@@ -73,7 +73,7 @@ Wirausahawan _(enterpreneur)_ merupakan orang yang dapat menggerakkan perekonomi
 1. Disiplin
 2. Komitmen tinggi
 3. Jujur
-4. Krwatif dan inovatif
+4. Kreatif dan inovatif
 5. Mandiri dan realistis
 6. Berani menghadapi resiko
 7. Selalu mencari peluang
@@ -108,3 +108,37 @@ Syarat - syarat kewirausahaan dibedakan menjadi dua, diantaranya 8K dan 7P sebag
 2. Usaha berskala
 3. Usaha besar
 4. Usaha sosial
+
+#BAB 1 - B. SIKAP DAN KARAKTERISTIK WIRAUSAHAWAN
+##1. Karakteristik Dasar Wirausahawan
+**Robert Reich** mengungkapkan bahwa kepemimpinan, kemampuan manajerial dan membangun tim merupakan karakteristik dasar bagi seorang wirausahawan.
+Berikut cara - cara mengasag ketiga aspek tersebut :
+### a. Memiliki persepsi terhadap ketidakpastian dan mampu menanggung resiko yang dihadapinya
+Frank Knight medefinisikan resiko menjadi beberapa bagian, yaitu  :
+1. Resiko biasa
+2. Resiko ambigu
+3. Ketidakpastian murni atau Ketidakpastian ala Knight
+
+### b. Merancang dan menerapkan strategi
+Berikut beberapa strategi yang digunakan para wirausahawan yang berhasil :
+1. Mencari pasar khusus yang belum tergarap
+2. Peka terhadap tren baru dan berani memulainya
+3. Segala mengimplementasi ide menjadi sebuah tindakan
+4. Hindari kata-kata yang mematahkan semangat
+5. Eksplorasikan kelemahan kompetitor
+
+## 2. Sikap seorang wirausahawan
+1. Selalu berani mengambil resiko
+2. Bersikap fleksibel
+3. Berusaha mengenal bisnis
+4. Berani mengakui kesalahan
+5. Jujur
+6. Optimis dengan masa depan
+7. memiliki keinginan yang kuat dalam wirausaha
+
+## 3. Tips Membanhun karakteristik kewirausahaan
+1. Buatlah usaha anda sesederhana mungkin
+2. Jangan takut memulai
+3. Minimalkan resiko
+4. Buat jalinan kerjasama dengan pengusaha lain
+
