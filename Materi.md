@@ -32,3 +32,25 @@ Seorang penulis buku tenang bisnis dan wirausaha, **Sharma** menggolongkan fakto
 2. Ketersediaan peagawai dan bahan mentah
 3. Adanya dorongan dari perusahaan lain yang lebih besar
 4. Adanya permintaan yang menjanjikan atas produk tertentu
+
+## 5. Faktor keberhasilan dan kegagalan usaha
+### A. Faktor Keberhasilan Berwirausaha
+1. Kerja keras
+2. Memiliki relasi luas
+3. Ambisi untuk maju
+4. Memiliki kemampuan memimpin
+5. Mengambil keputusan
+6. Jujur
+7. Disiplin
+
+### B. Faktor Kegagalan Berwirausaha
+1. Kurang ulet
+2. Cepat putus asa
+3. Kurang tekun
+4. Kurang teliti
+5. Tidak jujur
+6. Kurang cekatan
+7. Kurang inisiatif
+8. Kurang kreatif
+9. Kurang dapat menyesuaikan dengan selera konsumen
+10. Adanya pelayanan yang kurang baik
