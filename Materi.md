@@ -136,7 +136,7 @@ Berikut beberapa strategi yang digunakan para wirausahawan yang berhasil :
 6. Optimis dengan masa depan
 7. memiliki keinginan yang kuat dalam wirausaha
 
-## 3. Tips Membanhun karakteristik kewirausahaan
+## 3. Tips Membangun karakteristik kewirausahaan
 1. Buatlah usaha anda sesederhana mungkin
 2. Jangan takut memulai
 3. Minimalkan resiko
