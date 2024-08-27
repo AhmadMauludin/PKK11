@@ -144,3 +144,5 @@ Berikut beberapa strategi yang digunakan para wirausahawan yang berhasil :
 3. Minimalkan resiko
 4. Buat jalinan kerjasama dengan pengusaha lain
 
+To be continue...
+
