@@ -146,3 +146,5 @@ Berikut beberapa strategi yang digunakan para wirausahawan yang berhasil :
 
 To be continue...
 
+Kegagalan adalah keberhasilan yang tertunda
+
