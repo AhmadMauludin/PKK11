@@ -109,8 +109,8 @@ Syarat - syarat kewirausahaan dibedakan menjadi dua, diantaranya 8K dan 7P sebag
 3. Usaha besar
 4. Usaha sosial
 
-#BAB 1 - B. SIKAP DAN KARAKTERISTIK WIRAUSAHAWAN
-##1. Karakteristik Dasar Wirausahawan
+# BAB 1 - B. SIKAP DAN KARAKTERISTIK WIRAUSAHAWAN
+## 1. Karakteristik Dasar Wirausahawan
 
 **Robert Reich** mengungkapkan bahwa kepemimpinan, kemampuan manajerial dan membangun tim merupakan karakteristik dasar bagi seorang wirausahawan.
 Berikut cara - cara mengasag ketiga aspek tersebut :
