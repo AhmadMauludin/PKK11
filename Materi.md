@@ -58,7 +58,7 @@ Seorang penulis buku tenang bisnis dan wirausaha, **Sharma** menggolongkan fakto
 ## 6. Wawasan Wirausaha
 Wirausahawan _(enterpreneur)_ merupakan orang yang dapat menggerakkan perekonomian masyarakat agar lebih maju, berani mengambil resiko, mengatur kegiatan, mengelola modal, serta memiliki respons kreatif dan inovatif terhadap peluang yang ada.
 
-### Ciri - ciri Wirausahawan
+### A. Ciri - ciri Wirausahawan
 1. Mengidentifikasi peluang usaha
 2. Memiliki percaya diri
 3. Bersikap positif terhadap diri serta lingkungannya
@@ -69,7 +69,7 @@ Wirausahawan _(enterpreneur)_ merupakan orang yang dapat menggerakkan perekonomi
 8. Berani mengambil resiko
 9. Menerima saran dan kritik
 
-### Karakteristik Wirausahawan
+### B. Karakteristik Wirausahawan
 1. Disiplin
 2. Komitmen tinggi
 3. Jujur
@@ -81,7 +81,7 @@ Wirausahawan _(enterpreneur)_ merupakan orang yang dapat menggerakkan perekonomi
 9. Memiliki kemampuan manajerial
 10. Memiliki keterampilan personal
 
-### Syarat - syarat kewirausahaan
+### C. Syarat - syarat kewirausahaan
 Syarat - syarat kewirausahaan dibedakan menjadi dua, diantaranya 8K dan 7P sebagai berikut:
 
 **Syarat 8K**
@@ -103,7 +103,7 @@ Syarat - syarat kewirausahaan dibedakan menjadi dua, diantaranya 8K dan 7P sebag
 6. Penghayatan hakiki kehidupan
 7. Perbankan
 
-### Tipe - tipe Kewirausahaan
+### D. Tipe - tipe Kewirausahaan
 1. Kewirausahaan dalam bentuk usaha kecil
 2. Usaha berskala
 3. Usaha besar
