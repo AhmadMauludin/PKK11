@@ -111,8 +111,10 @@ Syarat - syarat kewirausahaan dibedakan menjadi dua, diantaranya 8K dan 7P sebag
 
 #BAB 1 - B. SIKAP DAN KARAKTERISTIK WIRAUSAHAWAN
 ##1. Karakteristik Dasar Wirausahawan
+
 **Robert Reich** mengungkapkan bahwa kepemimpinan, kemampuan manajerial dan membangun tim merupakan karakteristik dasar bagi seorang wirausahawan.
 Berikut cara - cara mengasag ketiga aspek tersebut :
+
 ### a. Memiliki persepsi terhadap ketidakpastian dan mampu menanggung resiko yang dihadapinya
 Frank Knight medefinisikan resiko menjadi beberapa bagian, yaitu  :
 1. Resiko biasa
@@ -123,7 +125,7 @@ Frank Knight medefinisikan resiko menjadi beberapa bagian, yaitu  :
 Berikut beberapa strategi yang digunakan para wirausahawan yang berhasil :
 1. Mencari pasar khusus yang belum tergarap
 2. Peka terhadap tren baru dan berani memulainya
-3. Segala mengimplementasi ide menjadi sebuah tindakan
+3. Segera mengimplementasi ide menjadi sebuah tindakan
 4. Hindari kata-kata yang mematahkan semangat
 5. Eksplorasikan kelemahan kompetitor
 
