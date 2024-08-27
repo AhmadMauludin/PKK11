@@ -26,7 +26,7 @@ Seorang penulis buku tenang bisnis dan wirausaha, **Sharma** menggolongkan fakto
 1. Keinginan melakukan sesuatu yang baru
 2. Latar belakang pendidikan
 3. Pengalaman atau pekerjaan di masa lalu
-4. 
+   
 ### 2. Faktor Eksternal
 1. Dukungan pemerintah
 2. Ketersediaan peagawai dan bahan mentah
