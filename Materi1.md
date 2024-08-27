@@ -144,7 +144,38 @@ Berikut beberapa strategi yang digunakan para wirausahawan yang berhasil :
 3. Minimalkan resiko
 4. Buat jalinan kerjasama dengan pengusaha lain
 
-To be continue...
+# BAB 1 - C. Kewirausahaan di bidang komputer
+### Kendala dalam membangun usaha komputer
+1. Bisnis perangkat keras memanglah berat
+2. Melawan perusahaan yang lebih besar
+3. Investor yang tidak sabaran
 
-Kegagalan adalah keberhasilan yang tertunda
+### Mengatasi Kendala dalam membangun usaha komputer
+1. Mengembangkan produk
+2. Menetapkan proses produksi
+3. Mengatur persediaan
 
+### Manfaat berwirausaha Perangkat Lunak
+
+### Jenis - jenis usaha perangkat lunak
+
+### Bentuk usaha perangkat lunak berbasi pelayanan
+
+### Tips dalam membangun usaha dalam bidang perangkat lunak (Software Enterpreneurship)
+1. Tetap buat usaha yang sesederhana mungkin
+2. Memberikan tawaran beberapa paket menarik
+3. Definisikan, ukur, analisis, tingkatkan dan kontrol
+4. Tumbuhsuburkan suatu ekosistem perangkat lunak
+5. Tawarkan pelayanan profesional yang tepat
+6. Tunjunkan tujuan produk untuk kesuksesan perusahaan
+7. Senantiasa memperhatikan dashboard
+8. Terapkan insentif
+9. Selalu tekankan pada pertumbuhan
+10. Mengetahui cara mendapat keuntungan
+
+### Kewirausahaan di bidang multimedia (Tecnopreneurship)
+
+Beberapa usaha bidang multimedia:
+1. Video Pencitraan
+2. Animasi
+3. Desai Grafis
