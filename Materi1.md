@@ -174,7 +174,6 @@ Berikut beberapa strategi yang digunakan para wirausahawan yang berhasil :
 10. Mengetahui cara mendapat keuntungan
 
 ### Kewirausahaan di bidang multimedia (Tecnopreneurship)
-
 Beberapa usaha bidang multimedia:
 1. Video Pencitraan
 2. Animasi
