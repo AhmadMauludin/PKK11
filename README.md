@@ -3,7 +3,7 @@ Selamat belajar.
 
 Jika anda sudah membaca dan memahami Bagian A pada bab 1, kerjakan kuis di bawah ini
 
-**[Kuis PKK XI - Q1](https://quilgo.com/t/Uks2PA3SMe7BXQWh)**
+**[Kuis PKK XI - Q1](https://forms.gle/233C2KnPQUWE5F2c6)**
 
 Kerjakan Kuis dibawah ini, setelah anda membaca materi.
 
